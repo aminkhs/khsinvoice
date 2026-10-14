@@ -45,8 +45,8 @@
 
 ## نصب
 
-فایل APK را از بخش Releases بردارید و نصب کنید. Android 8 یا بالاتر لازم است.
-
+فایل APK را از همین بخش Releases بردارید و نصب کنید. Android 8 یا بالاتر لازم است.
+https://raw.githubusercontent.com/aminkhs/khsinvoice/refs/heads/main/khs-invoice-0.5.0-source/khs-invoice/khs-invoice-0.5.0-debug.apk
 اگر مجوز پیامک داده نمی‌شود:
 
 * Android 13 به بعد برای برنامه‌ای که با فایل APK نصب شده مجوز پیامک را قفل می‌کند. در «اطلاعات برنامه» از منوی ⋮ گزینه «اجازه به تنظیمات محدودشده» را بزنید و بعد مجوز پیامک را بدهید.
