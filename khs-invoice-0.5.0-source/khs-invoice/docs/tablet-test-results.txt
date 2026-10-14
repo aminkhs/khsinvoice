@@ -1,0 +1,8 @@
+
+ir.hesab.app.UiTest:..
+
+Time: 18.389
+
+OK (2 tests)
+
+

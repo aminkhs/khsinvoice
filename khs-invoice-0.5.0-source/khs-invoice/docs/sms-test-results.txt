@@ -1,0 +1,8 @@
+
+ir.hesab.app.SmsCaptureTest:.
+
+Time: 7.68
+
+OK (1 test)
+
+

@@ -1,0 +1,17 @@
+
+ir.hesab.app.BankDateTextTest:.
+ir.hesab.app.DepositCategoryTest:.
+ir.hesab.app.HistoryDiagnosticsTest:..
+ir.hesab.app.LongHistoryTest:.
+ir.hesab.app.MigrationTest:.
+ir.hesab.app.NoInternetTest:..
+ir.hesab.app.ReportRangeTest:.
+ir.hesab.app.RepositoryIntegrationTest:.........
+ir.hesab.app.SmsSetupTest:.
+ir.hesab.app.UiTest:..
+
+Time: 47.29
+
+OK (21 tests)
+
+
